@@ -2,6 +2,13 @@
 
 ###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=namkiit&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=namkiit&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
 <img align="right" height="150" src="https://w0.peakpx.com/wallpaper/396/345/HD-wallpaper-my-home-pretty-yusei-cg-guy-crossover-pokemon-eat-sweet-nice-spiky-hair-anime-yugioh-emolga-yu-gi-oh-handsome-pillow-male-lovely-food-fudo-yusei-fudou-yusei-pocky-laptop-boy.jpg"  />
 
 ###
@@ -54,5 +61,11 @@
   </a>
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/namkiit/namkiit/output/snake.svg" alt="Snake animation" />
 
 ###
