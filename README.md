@@ -64,8 +64,3 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/namkiit/namkiit/output/snake.svg" alt="Snake animation" />
-
-###
