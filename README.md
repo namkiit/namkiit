@@ -1,4 +1,8 @@
-<h2 align="left">Hi 👋! My name is Nguyen Nam Kiet and I'm a Front-end Web Developer from Vietnam</h2>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=namkiit.namkiit" />
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nguyen+Nam+Kiet!;" />
+</h1>
 
 ###
 
@@ -11,7 +15,7 @@
 
 <img align="right" height="150" src="https://w0.peakpx.com/wallpaper/396/345/HD-wallpaper-my-home-pretty-yusei-cg-guy-crossover-pokemon-eat-sweet-nice-spiky-hair-anime-yugioh-emolga-yu-gi-oh-handsome-pillow-male-lovely-food-fudo-yusei-fudou-yusei-pocky-laptop-boy.jpg"  />
 
-###
+### Skills
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -47,7 +51,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
 </div>
 
-###
+### Contact
 
 <div align="left">
   <a href="https://www.facebook.com/kiet.nam.56/" target="_blank">
